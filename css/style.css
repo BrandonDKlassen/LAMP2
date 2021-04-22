@@ -1,0 +1,24 @@
+/*create a class to make an element take up 50% of its container's width*/
+.max-width-element-50 {
+    width: 50%;
+}
+
+/*create a class to make an element take up 80% of its container's width*/
+.max-width-element-80 {
+    width: 80%;
+}
+
+/*class to make an element take up 100% of its container's width*/
+.full-width-element {
+    width: 100%;
+}
+
+/*create a class that makes an element be aligned in the center vertically*/
+
+.vertical-center-element {
+    min-height: 100%;
+    min-height: 100vh;
+  
+    display: flex;
+    align-items: center;
+}
